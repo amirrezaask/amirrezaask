@@ -6,6 +6,7 @@ I like creating applications in Golang, making plugins for Neovim using lua and 
 - golobby/config: Simple but powerful configuration for Golang applications.
 - golobby/container: Simple DI in Golang.
 - amirrezaask/plumber: High scale data pipelines in Golang.
+- amirrezaask/dag: Data structures mapped to Golang syntax
 
 ## Neovim Plugins:
 - MusicPlayer.nvim: Integrate music players in Neovim.
