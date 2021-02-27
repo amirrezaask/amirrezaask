@@ -5,6 +5,7 @@ I like creating applications in Golang, making plugins for Neovim using lua and 
 - golobby/repl: REPL in Golang.
 - golobby/config: Simple but powerful configuration for Golang applications.
 - golobby/container: Simple DI in Golang.
+- amirrezaask/worker: Job queue with customizable backends and fluent API and simplicity in mind.
 - amirrezaask/plumber: High scale data pipelines in Golang.
 - amirrezaask/dag: Data structures mapped to Golang syntax
 
