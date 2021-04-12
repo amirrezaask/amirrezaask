@@ -18,3 +18,16 @@ Software Engineer with vast experience with Golang, Worked on several large scal
 - start.nvim: Your neovim startscreen.
 - ngo.nvim: Golang development environment in Golang.
 
+[![](https://img.shields.io/badge/-rust-orange?style=for-the-badge&logo=rust)](https://www.rust-lang.org/)
+[![](https://img.shields.io/badge/-go-orange?style=for-the-badge&logo=go)](https://go.dev/)
+[![](https://img.shields.io/badge/-python3-orange?style=for-the-badge&logo=python)](https://www.python.org/)
+
+
+# Contact Me
+
+[![](https://img.shields.io/badge/-raskarpour@gmail.com-lightgray?style=for-the-badge&logo=gmail)](mailto:raskarpour@gmail.com)
+
+
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=amirrezaask&show_icons=true&theme=monokai" alt="AmirrezaAsk's GitHub stats" />
+</p>
