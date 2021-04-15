@@ -20,6 +20,7 @@ Software Engineer with vast experience with Golang, Worked on several large scal
 
 [![](https://img.shields.io/badge/-rust-orange?style=for-the-badge&logo=rust)](https://www.rust-lang.org/)
 [![](https://img.shields.io/badge/-go-orange?style=for-the-badge&logo=go)](https://go.dev/)
+[![](https://img.shields.io/badge/-lua-orange?style=for-the-badge&logo=lua)](https://lua.org/)
 [![](https://img.shields.io/badge/-python3-orange?style=for-the-badge&logo=python)](https://www.python.org/)
 
 
