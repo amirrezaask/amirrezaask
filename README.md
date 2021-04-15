@@ -14,7 +14,7 @@ Software Engineer with vast experience with Golang, Worked on several large scal
  
 ## Neovim Plugins:
 - MusicPlayer.nvim: Integrate music players in Neovim.
-- Fuzzy.nvim: Fuzzy search on anything with both in Lua backend and FZF.
+- fuzzy.nvim: fuzzy finder all in lua for neovim, with support for native fzf and fzy as it's backends.
 - start.nvim: Your neovim startscreen.
 - ngo.nvim: Golang development environment in Golang.
 
