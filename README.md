@@ -4,17 +4,17 @@ Software Engineer with vast experience on Golang, contributed to several large s
 # Projects
 - amirrezaask/dotfiles: Simple, lightweight yet powerfull configuration for neovim, Emacs, AwesomeWM, ...
 ## Go Projects:
-- [REPL in Golang.](https://github.com/golobby/config) 
-- [Simple but powerful configuration for Golang applications](https://github.com/golobby/config)
-- [Simple DI in Golang](https://github.com/golobby/container)
-- [Job queue with customizable backends and fluent API and simplicity in mind](https://github.com/amirrezaask/worker)
-- [High scale data pipelines in Golang](https://github.com/amirrezaask/plumber)
-- [Data structures mapped to Golang syntax](https://github.com/amirrezaask/dag)
-- [URL shortner coded in a video series as an educational project](https://github.com/amirrezaask/mokhtasar)
+- [golobby/repl: REPL in Golang.](https://github.com/golobby/config) 
+- [golobby/config: Simple but powerful configuration for Golang applications](https://github.com/golobby/config)
+- [golobby/container: Simple DI in Golang](https://github.com/golobby/container)
+- [amirrezaask/woker: Job queue with customizable backends and fluent API and simplicity in mind](https://github.com/amirrezaask/worker)
+- [amirrezaask/plumber: High scale data pipelines in Golang](https://github.com/amirrezaask/plumber)
+- [amirrezaask/dag: Data structures mapped to Golang syntax](https://github.com/amirrezaask/dag)
+- [amirrezaask/mokhtasar: URL shortner coded in a video series as an educational project](https://github.com/amirrezaask/mokhtasar)
  
 ## Neovim Plugins:
-- [MusicPlayer.nvim: Integrate music players in Neovim](https://github.com/amirrezaask/music_player.nvim)
-- [fuzzy finder all in lua for neovim, with support for native fzf and fzy as it's backends.](https://github.com/amirrezaask/fuzzy.nvim)
+- [amirrezaask/music_player.nvim: Integrate music players in Neovim](https://github.com/amirrezaask/music_player.nvim)
+- [amirrezaask/fuzzy.nvim: fuzzy finder all in lua for neovim, with support for native fzf and fzy as it's backends.](https://github.com/amirrezaask/fuzzy.nvim)
 
 [![](https://img.shields.io/badge/-rust-orange?style=for-the-badge&logo=rust)](https://www.rust-lang.org/)
 [![](https://img.shields.io/badge/-go-orange?style=for-the-badge&logo=go)](https://go.dev/)
