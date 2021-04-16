@@ -4,7 +4,7 @@ Software Engineer with vast experience on Golang, contributed to several large s
 # Projects
 - amirrezaask/dotfiles: Simple, lightweight yet powerfull configuration for neovim, Emacs, AwesomeWM, ...
 ## Go Projects:
-- golobby/repl: REPL in Golang.
+- [REPL in Golang.](https://github.com/golobby/config) 
 - [Simple but powerful configuration for Golang applications](https://github.com/golobby/config)
 - [Simple DI in Golang](https://github.com/golobby/container)
 - [Job queue with customizable backends and fluent API and simplicity in mind](https://github.com/amirrezaask/worker)
