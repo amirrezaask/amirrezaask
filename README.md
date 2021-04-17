@@ -2,7 +2,7 @@
 Software Engineer with vast experience on Golang, contributed to several large scale applications, enthusiastic about Rustlang, Neovim, and DevOPS stuff.
 
 # Projects
-- - [Simple, lightweight yet powerfull configuration for neovim, Emacs, kitty, AwesomeWM, ...](https://github.com/amirrezaask/dotfiles)
+- [Simple, lightweight yet powerfull configuration for neovim, Emacs, kitty, AwesomeWM, ...](https://github.com/amirrezaask/dotfiles)
 ## Go Projects:
 - [golobby/repl: REPL in Golang.](https://github.com/golobby/config) 
 - [golobby/config: Simple but powerful configuration for Golang applications](https://github.com/golobby/config)
