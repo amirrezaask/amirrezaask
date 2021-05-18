@@ -1,5 +1,5 @@
 # Amirreza Askarpour
-Software Engineer with vast experience on Golang, contributed to several large scale applications, enthusiastic about Rustlang, Neovim, and DevOPS stuff.
+Software Engineer with vast experience on Golang, contributed to several large scale applications, enthusiastic about Lua, Neovim, and DevOPS stuff.
 
 # Projects
 - [amirrezaask/dotfiles: Simple, lightweight yet powerfull configuration for neovim, Emacs, kitty, AwesomeWM, ...](https://github.com/amirrezaask/dotfiles)
