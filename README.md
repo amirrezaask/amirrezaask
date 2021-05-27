@@ -12,7 +12,9 @@ Software Engineer with vast experience on Golang, contributed to several large s
 - [amirrezaask/dag: Data structures mapped to Golang syntax](https://github.com/amirrezaask/dag)
 - [amirrezaask/mokhtasar: URL shortner coded in a video series as an educational project](https://github.com/amirrezaask/mokhtasar)
  
-## Neovim Plugins:
+## Neovim:
+- [amirrezaask/nvim: Configuration for neovim.](https://github.com/amirrezaask/nvim)
+### Plugins:
 - [amirrezaask/blame.nvim: Show git blame author and message on each line](https://github.com/amirrezaask/blame.nvim)
 - [amirrezaask/palette.nvim: Create colorschemes using lua](https://github.com/amirrezaask/palette.nvim)
 - [amirrezaask/spawn.nvim: Made luv.spawn easy](https://github.com/amirrezaask/spawn.nvim)
