@@ -18,7 +18,7 @@ Software Engineer with vast experience on Golang, contributed to several large s
 - [amirrezaask/actions.nvim: define same behaviour across different file types.](https://github.com/amirrezaask/actions.nvim)
 - [amirrezaask/blame.nvim: Show git blame author and message on each line](https://github.com/amirrezaask/blame.nvim)
 - [amirrezaask/palette.nvim: Create colorschemes using lua](https://github.com/amirrezaask/palette.nvim)
-- [amirrezaask/spawn.nvim: Made luv.spawn easy](https://github.com/amirrezaask/spawn.nvim)
+- [amirrezaask/spawn.nvim: A better jobstart](https://github.com/amirrezaask/spawn.nvim)
 - [amirrezaask/fuzzy.nvim: fuzzy finder all in lua for neovim, with support for native fzf and fzy as it's backends.](https://github.com/amirrezaask/fuzzy.nvim)
 
 ## Lua projects:
