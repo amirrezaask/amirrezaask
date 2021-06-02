@@ -16,6 +16,7 @@ Software Engineer with vast experience on Golang, contributed to several large s
 - [amirrezaask/dotfiles/nvim: Configuration for neovim.](https://github.com/amirrezaask/dotfiles/tree/master/nvim)
 ### Plugins:
 - [amirrezaask/actions.nvim: Define actions for different file types and projects.](https://github.com/amirrezaask/actions.nvim)
+- [amirrezaask/nline.nvim: Make neovim statusline, all in lua, all the time](https://github.com/amirrezaask/nline.nvim)
 - [amirrezaask/blame.nvim: Show git blame author and message on each line](https://github.com/amirrezaask/blame.nvim)
 - [amirrezaask/palette.nvim: Create colorschemes using lua](https://github.com/amirrezaask/palette.nvim)
 - [amirrezaask/spawn.nvim: A better jobstart](https://github.com/amirrezaask/spawn.nvim)
