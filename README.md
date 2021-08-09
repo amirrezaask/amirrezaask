@@ -12,6 +12,7 @@ Software Engineer with vast experience on Golang, contributed to several large s
 - [amirrezaask/dag: Data structures mapped to Golang syntax](https://github.com/amirrezaask/dag)
 - [amirrezaask/mokhtasar: URL shortner coded in a video series as an educational project](https://github.com/amirrezaask/mokhtasar)
 - [amirrezaask/echoplus: All middlwares, helpers, etc stuff related to echo webframework](https://github.com/amirrezaask/echoplus)
+- [amirrezaask/connect: Backend server of a chat application.](https://github.com/amirrezaask/connect)
 
  
 ## Neovim:
