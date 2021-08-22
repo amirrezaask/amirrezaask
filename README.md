@@ -7,6 +7,7 @@ Software Engineer with vast experience on Golang, contributed to several large s
 - [golobby/repl: REPL in Golang.](https://github.com/golobby/config) 
 - [golobby/config: Simple but powerful configuration for Golang applications](https://github.com/golobby/config)
 - [golobby/container: Simple DI in Golang](https://github.com/golobby/container)
+- [golobby/sql: database/sql on steroids](https://github.com/golobby/sql)
 - [amirrezaask/worker: Job queue with customizable backends and fluent API and simplicity in mind](https://github.com/amirrezaask/worker)
 - [amirrezaask/plumber: High scale data pipelines in Golang](https://github.com/amirrezaask/plumber)
 - [amirrezaask/dag: Data structures mapped to Golang syntax](https://github.com/amirrezaask/dag)
