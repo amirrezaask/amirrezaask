@@ -4,11 +4,11 @@ Software Engineer with vast experience on Golang, contributed to several large s
 # Projects
 - [amirrezaask/dotfiles: Simple, lightweight yet powerfull configuration for neovim, Emacs, kitty, AwesomeWM, ...](https://github.com/amirrezaask/dotfiles)
 ## Go Projects:
-- [golobby/repl: REPL in Golang.](https://github.com/golobby/config) 
+- [amirrezaask/pass: My personal offline password manager.](https://github.com/amirrezaask/pass) 
+- [golobby/sql: database/sql on steroids](https://github.com/golobby/sql)
 - [golobby/config: Simple but powerful configuration for Golang applications](https://github.com/golobby/config)
 - [golobby/container: Simple DI in Golang](https://github.com/golobby/container)
-- [golobby/sql: database/sql on steroids](https://github.com/golobby/sql)
-- [amirrezaask/worker: Job queue with customizable backends and fluent API and simplicity in mind](https://github.com/amirrezaask/worker)
+- [golobby/repl: REPL in Golang.](https://github.com/golobby/config) 
 - [amirrezaask/plumber: High scale data pipelines in Golang](https://github.com/amirrezaask/plumber)
 - [amirrezaask/dag: Data structures mapped to Golang syntax](https://github.com/amirrezaask/dag)
 - [amirrezaask/mokhtasar: URL shortner coded in a video series as an educational project](https://github.com/amirrezaask/mokhtasar)
@@ -18,6 +18,7 @@ Software Engineer with vast experience on Golang, contributed to several large s
  
 ## Neovim:
 - [amirrezaask/dotfiles/nvim: Configuration for neovim.](https://github.com/amirrezaask/dotfiles/tree/master/nvim)
+
 ### Plugins:
 - [amirrezaask/actions.nvim: Define actions for different file types and projects.](https://github.com/amirrezaask/actions.nvim)
 - [amirrezaask/nline.nvim: Make neovim statusline, all in lua, all the time](https://github.com/amirrezaask/nline.nvim)
