@@ -15,7 +15,10 @@ Software Engineer with vast experience on Golang, contributed to several large s
 - [amirrezaask/connect: Backend server of a chat application.](https://github.com/amirrezaask/connect)
 
 ## Rust Projects:
-- [amirrezaask/todos.rs: Todo API written in Rust using multiple web frameworks.](https://github.com/amirrezaask/todos.rs) 
+- [amirrezaask/todos.rs: Todo API written in Rust using multiple web frameworks.](https://github.com/amirrezaask/todos.rs)
+- [amirrezaask/todos.rs: Simple key/value store over HTTP using rocket.](https://github.com/amirrezaask/kv.rs)
+- [amirrezaask/todos.rs: Simple key/value store over TCP using Tokio.](https://github.com/amirrezaask/kv_tcp_rs)
+
 ## Neovim:
 - [amirrezaask/dotfiles/nvim: Configuration for neovim.](https://github.com/amirrezaask/dotfiles/tree/master/nvim)
 
