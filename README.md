@@ -16,6 +16,7 @@ Software Engineer with vast experience on Golang, contributed to several large s
 - [amirrezaask/dag: Data structures mapped to Golang syntax](https://github.com/amirrezaask/dag)
 - [amirrezaask/mokhtasar: URL shortner coded in a video series as an educational project](https://github.com/amirrezaask/mokhtasar)
 - [amirrezaask/connect: Backend server of a chat application.](https://github.com/amirrezaask/connect)
+- [amirrezaask/lisp: Set of utilities to create lisp dialect using Go.](https://github.com/amirrezaask/lisp)
 
 ## Rust Projects:
 - [amirrezaask/query_builder.rs: safe, comp time query builder for your project.](https://github.com/amirrezaask/query_builder.rs)
