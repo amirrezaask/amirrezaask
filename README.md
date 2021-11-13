@@ -4,6 +4,7 @@ Software Engineer with vast experience on Golang, contributed to several large s
 # Projects
 - [amirrezaask/dotfiles: Simple, lightweight yet powerfull configuration for neovim, Emacs, kitty, AwesomeWM, ...](https://github.com/amirrezaask/dotfiles)
 ## C# Projects:
+- [amirrezaask/AmirrezaAsk.MinimalApis.Extensions: Set of extension method and helper types to help you with new MinimalApis in aspnetcore6.](https://github.com/amirrezaask/AmirrezaAsk.MinimalApis.Extensions)
 - [amirrezaask/SampleASPNETMinimalAPIs: A sample project as showcase of new minimal apis in aspnetcore and how to test/swagger/structure.](https://github.com/amirrezaask/SampleASPNETMinimalAPIs)
 - [amirrezaask/minimalplus: An opiniated template for dotnet new as a superset on default aspnetcore6 minimal APIs.](https://github.com/amirrezaask/minimalplus)
 ## Go Projects:
