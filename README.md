@@ -18,6 +18,7 @@ Software Engineer with vast experience on Golang, contributed to several large s
 - [amirrezaask/connect: Backend server of a chat application.](https://github.com/amirrezaask/connect)
 
 ## Rust Projects:
+- [amirrezaask/query_builder.rs: safe, comp time query builder for your project.](https://github.com/amirrezaask/query_builder.rs)
 - [amirrezaask/todos.rs: Todo API written in Rust using multiple web frameworks.](https://github.com/amirrezaask/todos.rs)
 - [amirrezaask/kv.rs: Simple key/value store over HTTP using rocket.](https://github.com/amirrezaask/kv.rs)
 - [amirrezaask/kv_tcp_rs: Simple key/value store over TCP using Tokio.](https://github.com/amirrezaask/kv_tcp_rs)
