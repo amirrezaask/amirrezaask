@@ -5,7 +5,8 @@ Software Engineer with vast experience on Golang, contributed to several large s
 - [amirrezaask/dotfiles: Simple, lightweight yet powerfull configuration for neovim, Emacs, kitty, AwesomeWM, ...](https://github.com/amirrezaask/dotfiles)
 
 ## Go Projects:
-- [amirrezaask/chortke: A simple math expression calculator, an example of a lexer and parser and evaluating postfix notation]() 
+- - [amirrezaask/f: Experimenting with Go 1.18 generics for a more functional style Go code.](https://github.com/amirrezaask/f) 
+- [amirrezaask/chortke: A simple math expression calculator, an example of a lexer and parser and evaluating postfix notation](https://github.com/amirrezaask/chortke) 
 - [amirrezaask/pass: My personal offline password manager.](https://github.com/amirrezaask/pass) 
 - [golobby/sql: database/sql on steroids](https://github.com/golobby/sql)
 - [golobby/config: Simple but powerful configuration for Golang applications](https://github.com/golobby/config)
