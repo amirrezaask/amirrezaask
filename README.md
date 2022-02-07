@@ -1,5 +1,5 @@
 # Amirreza Askarpour
-Software engineer, #gopher, #elixir enthusiast
+Software engineer, #gopher, #elixir #erlang #beam enthusiast
 
 # Projects
 - [amirrezaask/dotfiles: Simple, lightweight yet powerfull configuration for neovim, Emacs, kitty, AwesomeWM, ...](https://github.com/amirrezaask/dotfiles)
