@@ -1,19 +1,18 @@
 # Amirreza Askarpour
 Software engineer
 
-    
-[![](https://img.shields.io/badge/-rust-orange?style=for-the-badge&logo=rust)](https://www.rust-lang.org/)
 [![](https://img.shields.io/badge/-go-orange?style=for-the-badge&logo=go)](https://go.dev/)
+[![](https://img.shields.io/badge/-rust-orange?style=for-the-badge&logo=rust)](https://www.rust-lang.org/)
+[![](https://img.shields.io/badge/-zig-orange?style=for-the-badge&logo=zig)](https://www.ziglang.org/)
 [![](https://img.shields.io/badge/-python-orange?style=for-the-badge&logo=python)](https://python.org/)
-[![](https://img.shields.io/badge/-lua-orange?style=for-the-badge&logo=lua)](https://lua.org/)
 
 # Contact Me
 [![](https://img.shields.io/badge/-raskarpour@gmail.com-lightgray?style=for-the-badge&logo=gmail)](mailto:raskarpour@gmail.com)
 
-# Projects
+# Configurations
 - [amirrezaask/dotfiles: Simple, lightweight yet powerfull configuration for neovim, Emacs, kitty, AwesomeWM, ...](https://github.com/amirrezaask/dotfiles)
 
-## Go Projects:
+# Go Projects:
 - [golobby/orm: simple, easy to use, fast ORM for golang.](https://github.com/golobby/orm)
 - [amirrezaask/plumber: Simple data pipelines in Go.](https://github.com/amirrezaask/plumber)
 - [golobby/config: Simple but powerful configuration for Golang applications](https://github.com/golobby/config)
@@ -27,25 +26,11 @@ Software engineer
 - [amirrezaask/connect: Backend server of a chat application.](https://github.com/amirrezaask/connect)
 - [amirrezaask/lisp: Set of utilities to create lisp dialect using Go.](https://github.com/amirrezaask/lisp)
 
-## Neovim:
-- [amirrezaask/dotfiles/nvim: Configuration for neovim.](https://github.com/amirrezaask/dotfiles/tree/master/nvim)
-
-### Plugins:
-- [amirrezaask/actions.nvim: Define actions for different file types and projects.](https://github.com/amirrezaask/actions.nvim)
-- [amirrezaask/nline.nvim: Make neovim statusline, all in lua, all the time](https://github.com/amirrezaask/nline.nvim)
-- [amirrezaask/blame.nvim: Show git blame author and message on each line](https://github.com/amirrezaask/blame.nvim)
-- [amirrezaask/palette.nvim: Create colorschemes using lua](https://github.com/amirrezaask/palette.nvim)
-
 ## Rust Projects:
 - [amirrezaask/query_builder.rs: safe, comp time query builder for your project.](https://github.com/amirrezaask/query_builder.rs)
 - [amirrezaask/todos.rs: Todo API written in Rust using multiple web frameworks.](https://github.com/amirrezaask/todos.rs)
 - [amirrezaask/kv.rs: Simple key/value store over HTTP using rocket.](https://github.com/amirrezaask/kv.rs)
 - [amirrezaask/kv_tcp_rs: Simple key/value store over TCP using Tokio.](https://github.com/amirrezaask/kv_tcp_rs)
-
-## C# Projects:
-- [amirrezaask/AmirrezaAsk.MinimalApis.Extensions: Set of extension method and helper types to help you with new MinimalApis in aspnetcore6.](https://github.com/amirrezaask/AmirrezaAsk.MinimalApis.Extensions)
-- [amirrezaask/SampleASPNETMinimalAPIs: A sample project as showcase of new minimal apis in aspnetcore and how to test/swagger/structure.](https://github.com/amirrezaask/SampleASPNETMinimalAPIs)
-- [amirrezaask/minimalplus: An opiniated template for dotnet new as a superset on default aspnetcore6 minimal APIs.](https://github.com/amirrezaask/minimalplus)
 
 ## Lua projects:
 - [amirrezaask/moonlisp: Simple LISP transpiler to Lua](https://github.com/amirrezaask/moonlisp)
