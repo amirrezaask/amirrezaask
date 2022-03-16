@@ -8,6 +8,6 @@ Software engineer
 [![](https://img.shields.io/badge/-Neovim-brightgreen?style=for-the-badge&logo=neovim)](https://neovim.org/)
 
 # Contact Me
-[![](https://img.shields.io/badge/-Mail-lightgray?style=for-the-badge&logo=gmail)](mailto:raskarpour@gmail.com)
-[![](https://img.shields.io/badge/-Twitter-lightgray?style=for-the-badge&logo=twitter)](https://twitter.com/amirrezaask)
-[![](https://img.shields.io/badge/-LinkedIn-lightgray?style=for-the-badge&logo=linkedin)](https://linkedin.com/in/amirreza-askarpour)
+[![](https://img.shields.io/badge/-Mail-red?style=for-the-badge&logo=gmail)](mailto:raskarpour@gmail.com)
+[![](https://img.shields.io/badge/-Twitter-blue?style=for-the-badge&logo=twitter)](https://twitter.com/amirrezaask)
+[![](https://img.shields.io/badge/-LinkedIn-blue?style=for-the-badge&logo=linkedin)](https://linkedin.com/in/amirreza-askarpour)
