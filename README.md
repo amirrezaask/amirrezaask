@@ -1,5 +1,18 @@
 # Amirreza Askarpour
-Software engineer, #gopher, #elixir #erlang #beam enthusiast
+Software engineer
+
+[<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/linkedin.svg' alt='linkedin' height='22'>](https://www.linkedin.com/in/amirreza-askarpour/)
+[<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/twitter.svg' alt='twitter' height='22'>](https://twitter.com/amirrezaask)
+
+
+[![](https://img.shields.io/badge/-lua-orange?style=for-the-badge&logo=csharp)](https://dotnet.microsoft.com/)
+[![](https://img.shields.io/badge/-rust-orange?style=for-the-badge&logo=rust)](https://www.rust-lang.org/)
+[![](https://img.shields.io/badge/-go-orange?style=for-the-badge&logo=go)](https://go.dev/)
+
+# Contact Me
+
+[![](https://img.shields.io/badge/-raskarpour@gmail.com-lightgray?style=for-the-badge&logo=gmail)](mailto:raskarpour@gmail.com)
+
 
 # Projects
 - [amirrezaask/dotfiles: Simple, lightweight yet powerfull configuration for neovim, Emacs, kitty, AwesomeWM, ...](https://github.com/amirrezaask/dotfiles)
@@ -40,17 +53,3 @@ Software engineer, #gopher, #elixir #erlang #beam enthusiast
 
 ## Lua projects:
 - [amirrezaask/moonlisp: Simple LISP transpiler to Lua](https://github.com/amirrezaask/moonlisp)
-
-
-[![](https://img.shields.io/badge/-lua-orange?style=for-the-badge&logo=csharp)](https://dotnet.microsoft.com/)
-[![](https://img.shields.io/badge/-rust-orange?style=for-the-badge&logo=rust)](https://www.rust-lang.org/)
-[![](https://img.shields.io/badge/-go-orange?style=for-the-badge&logo=go)](https://go.dev/)
-
-# Contact Me
-
-[![](https://img.shields.io/badge/-raskarpour@gmail.com-lightgray?style=for-the-badge&logo=gmail)](mailto:raskarpour@gmail.com)
-
-
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=amirrezaask&show_icons=true&theme=monokai" alt="AmirrezaAsk's GitHub stats" />
-</p>
