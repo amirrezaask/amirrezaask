@@ -7,7 +7,9 @@ Software engineer
 [![](https://img.shields.io/badge/-python-orange?style=for-the-badge&logo=python)](https://python.org/)
 
 # Contact Me
-[![](https://img.shields.io/badge/-raskarpour@gmail.com-lightgray?style=for-the-badge&logo=gmail)](mailto:raskarpour@gmail.com)
+[![](https://img.shields.io/badge/-Mail-lightgray?style=for-the-badge&logo=gmail)](mailto:raskarpour@gmail.com)
+[![](https://img.shields.io/badge/-Twitter-lightgray?style=for-the-badge&logo=twitter)](https://twitter.com/amirrezaask)
+[![](https://img.shields.io/badge/-LinkedIn-lightgray?style=for-the-badge&logo=linkedin)](https://linkedin.com/in/amirreza-askarpour)
 
 # Configurations
 - [amirrezaask/dotfiles: Simple, lightweight yet powerfull configuration for neovim, Emacs, kitty, AwesomeWM, ...](https://github.com/amirrezaask/dotfiles)
