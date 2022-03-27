@@ -7,6 +7,10 @@ Software engineer @Snapp
 [![](https://img.shields.io/badge/-rust-black?style=for-the-badge&logo=rust)](https://www.rust-lang.org/)
 [![](https://img.shields.io/badge/-Neovim-black?style=for-the-badge&logo=neovim)](https://neovim.org/)
 
+# Contents I make
+[![](https://img.shields.io/badge/-youtube-black?style=for-the-badge&logo=youtube)](https://www.youtube.com/c/AmirrezaAsk)
+[![](https://img.shields.io/badge/-medium-black?style=for-the-badge&logo=medium)](https://medium.com/@amirrezaask)
+
 # Contact Me
 [![](https://img.shields.io/badge/-Mail-black?style=for-the-badge&logo=gmail)](mailto:raskarpour@gmail.com)
 [![](https://img.shields.io/badge/-Twitter-black?style=for-the-badge&logo=twitter)](https://twitter.com/amirrezaask)
