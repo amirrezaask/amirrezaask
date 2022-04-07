@@ -6,6 +6,8 @@ Software engineer @Snapp
 [![](https://img.shields.io/badge/-zig-black?style=for-the-badge&logo=zig)](https://www.ziglang.org/)
 [![](https://img.shields.io/badge/-rust-black?style=for-the-badge&logo=rust)](https://www.rust-lang.org/)
 [![](https://img.shields.io/badge/-Neovim-black?style=for-the-badge&logo=neovim)](https://neovim.org/)
+[![](https://img.shields.io/badge/-Emacs-black?style=for-the-badge&logo=emacs)](https://neovim.org/)
+
 
 # Contents I make
 [![](https://img.shields.io/badge/-youtube-black?style=for-the-badge&logo=youtube)](https://www.youtube.com/c/AmirrezaAsk)
