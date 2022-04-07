@@ -14,7 +14,10 @@ Software engineer @Snapp
 [![](https://img.shields.io/badge/-medium-black?style=for-the-badge&logo=medium)](https://medium.com/@amirrezaask)
 
 # My open source projects
-- Khadem: Writing a webserver in Zig from scratch recorded on -> [Youtube](https://www.youtube.com/playlist?list=PLS87DlLl8etzu2yg5c6a8dDB3wntFsRcj) <- [Github](https://github.com/amirrezaask/khadem) 
+- Khadem: Writing a webserver in Zig from scratch recorded on [Youtube](https://www.youtube.com/playlist?list=PLS87DlLl8etzu2yg5c6a8dDB3wntFsRcj)  and source code on [Github](https://github.com/amirrezaask/khadem) 
+- [Golobby/orm: Fast, type safe simple ORM for golang](https://github.com/golobby/orm)
+- [Golobby/config: Simple multi layer config loader for golang](https://github.com/golobby/config)
+- [Golobby/container: Simple yet powerful approach to IOC container in golang](https://github.com/golobby/container)
 
 
 # Contact Me
