@@ -11,6 +11,7 @@ Software engineer @Snapp
 
 # Contents I make
 [![](https://img.shields.io/badge/-youtube-black?style=for-the-badge&logo=youtube)](https://www.youtube.com/c/AmirrezaAsk)
+[Writing a webserver in Zig from scratch](https://www.youtube.com/playlist?list=PLS87DlLl8etzu2yg5c6a8dDB3wntFsRcj)
 [![](https://img.shields.io/badge/-medium-black?style=for-the-badge&logo=medium)](https://medium.com/@amirrezaask)
 
 # Contact Me
