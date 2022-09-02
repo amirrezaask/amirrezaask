@@ -14,7 +14,7 @@ Software engineer @Snapp
 # My open source projects
 - [Loki: Compiler for a simple language called Loki that generates native binaries.](https://github.com/amirrezaask/loki) 
 - [Dotfiles: personal configs for vim/neovim, emacs, kitty, fish, zsh, ...](https://github.com/amirrezaask/dotfiles)
-- Khadem: Writing a webserver in Zig/Rust from scratch recorded on [Youtube](https://www.youtube.com/playlist?list=PLS87DlLl8etzu2yg5c6a8dDB3wntFsRcj)  and source code on [Github](https://github.com/amirrezaask/khadem) 
+- [Khadem: Writing a webserver in Zig/Rust from scratch recorded on [Youtube](https://www.youtube.com/playlist?list=PLS87DlLl8etzu2yg5c6a8dDB3wntFsRcj)  and source code on [Github](https://github.com/amirrezaask/khadem)](https://github.com/amirrezaask/khadem)
 - [Golobby/orm: Fast, type safe simple ORM for golang](https://github.com/golobby/orm)
 - [Golobby/config: Simple multi layer config loader for golang](https://github.com/golobby/config)
 - [Golobby/container: Simple yet powerful approach to IOC container in golang](https://github.com/golobby/container)
