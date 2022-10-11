@@ -15,7 +15,6 @@ Software engineer @Snapp
 - [Loki: Compiler with for a simple language called Loki with type checker, type inference, multi file support, internal compiler bytecode and ... that generates native binaries.](https://github.com/amirrezaask/loki)
 - [query_builder.rs: Safe, compile time query generator using proc macros in Rust](https://github.com/amirrezaask/query_builder.rs)
 - [Dotfiles: personal configs for vim/neovim, emacs, kitty, fish, zsh, ...](https://github.com/amirrezaask/dotfiles)
-- [Khadem: Writing a webserver in Zig/Rust from scratch recorded on [Youtube]()  and source code on [Github]()
 - Khadem Web server: Simple HTTP webserver written in both Rust and Zig livecoded on [Youtube](https://www.youtube.com/playlist?list=PLS87DlLl8etzu2yg5c6a8dDB3wntFsRcj).
   - [Rust](https://github.com/amirrezaask/khadem/tree/master/rust)
   - [Zig](https://github.com/amirrezaask/khadem/tree/master/zig)
