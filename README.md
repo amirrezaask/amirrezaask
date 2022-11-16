@@ -18,6 +18,7 @@ Software engineer @Snapp
 - Khadem Web server: Simple HTTP webserver written in both Rust and Zig livecoded on [Youtube](https://www.youtube.com/playlist?list=PLS87DlLl8etzu2yg5c6a8dDB3wntFsRcj).
   - [Rust](https://github.com/amirrezaask/khadem/tree/master/rust)
   - [Zig](https://github.com/amirrezaask/khadem/tree/master/zig)
+- [gist.rs: Github gist CLI in Rust.](https://github.com/amirrezaask/gist.rs)
 - [Golobby/orm: Fast, type safe simple ORM for golang](https://github.com/golobby/orm)
 - [Golobby/config: Simple multi layer config loader for golang](https://github.com/golobby/config)
 - [Golobby/container: Simple yet powerful approach to IOC container in golang](https://github.com/golobby/container)
