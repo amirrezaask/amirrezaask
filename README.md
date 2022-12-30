@@ -1,5 +1,9 @@
 # Amirreza Askarpour
 Software engineer @Snapp
+Compiler Enthusiast
+Editor Hacker
+Emacs lover
+Neovim Believer
 
 # Technologies I love
 [![](https://img.shields.io/badge/-rust-black?style=for-the-badge&logo=rust)](https://www.rust-lang.org/)
