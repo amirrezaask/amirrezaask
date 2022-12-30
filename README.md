@@ -15,7 +15,8 @@
 [![](https://img.shields.io/badge/-youtube-black?style=for-the-badge&logo=youtube)](https://www.youtube.com/c/AmirrezaAsk)
 [![](https://img.shields.io/badge/-medium-black?style=for-the-badge&logo=medium)](https://medium.com/@amirrezaask)
 
-# My open source projects
+# Highlights
+Almost everything other than my day job is open source, here you can see highlights of my cool projects, but for a complete list see my repositories.
 - [Loki: Compiler written in Rust for a simple language called Loki with type checker, type inference, multi file support, internal compiler bytecode and ... that generates native binaries.](https://github.com/amirrezaask/loki)
 - [query_builder.rs: Safe, compile time query generator using proc macros in Rust](https://github.com/amirrezaask/query_builder.rs)
 - [Dotfiles: personal configs for vim/neovim, emacs, kitty, fish, zsh, ...](https://github.com/amirrezaask/dotfiles)
