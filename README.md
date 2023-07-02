@@ -2,8 +2,9 @@
 - Software engineer @Snapp
 - Compiler Enthusiast
 # Technologies I love
-[![](https://img.shields.io/badge/-rust-black?style=for-the-badge&logo=rust)](https://www.rust-lang.org/)
+[![](https://img.shields.io/badge/-ocaml-black?style=for-the-badge&logo=ocaml)](https://www.ocaml.org/)
 [![](https://img.shields.io/badge/-go-black?style=for-the-badge&logo=go)](https://go.dev/)
+[![](https://img.shields.io/badge/-rust-black?style=for-the-badge&logo=rust)](https://www.rust-lang.org/)
 [![](https://img.shields.io/badge/-zig-black?style=for-the-badge&logo=zig)](https://www.ziglang.org/)
 
 
