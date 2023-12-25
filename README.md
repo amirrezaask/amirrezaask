@@ -1,5 +1,5 @@
 # Amirreza Askarpour
-- Software engineer @[MabnaDP](https://mabnadp.com/)
+- Software engineer
 - Compiler Enthusiast
 - Member of The Church of Emacs
 
