@@ -16,7 +16,7 @@
 # Highlights
 Almost everything other than my day job is open source, here you can see highlights of my cool projects, but for a complete list see my repositories.
 - [Loki: Compiler written in Rust for a simple language called Loki with type checker, type inference, multi file support, internal compiler bytecode and ... that generates native binaries.](https://github.com/amirrezaask/loki)
-- [Preditor: Programmable Text Editor, Golang + Raylib ](https://github.com/amirrezaask/core)
+- [Experimental Text editor, Golang + Raylib](https://github.com/amirrezaask/editor)
 - [Postchi: Simple HTTP client to be used instead of postman, insomnia, etc aims to be dev friendly and unix friendly. ](https://github.com/amirrezaask/postchi)
 - [query_builder.rs: Safe, compile time query generator using proc macros in Rust](https://github.com/amirrezaask/query_builder.rs)
 - [dotfiles: personal configs for neovim, emacs, kitty, fish, zsh, ...](https://github.com/amirrezaask/dotfiles)
