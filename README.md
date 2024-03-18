@@ -4,8 +4,9 @@
 - Member of The Church of Emacs
 
 # Technologies I love
-[![](https://img.shields.io/badge/-go-black?style=for-the-badge&logo=go)](https://go.dev/)<br>
-[![](https://img.shields.io/badge/-c-black?style=for-the-badge&logo=C)]()<br>
+[![](https://img.shields.io/badge/-go-black?style=for-the-badge&logo=go)](https://go.dev/)
+[![](https://img.shields.io/badge/-rust-black?style=for-the-badge&logo=Rust)]()<br>
+
 
 
 
