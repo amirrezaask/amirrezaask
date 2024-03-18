@@ -1,7 +1,6 @@
 # Amirreza Askarpour
 - Software engineer
 - Compiler Enthusiast
-- Member of The Church of Emacs
 
 # Technologies I love
 [![](https://img.shields.io/badge/-go-black?style=for-the-badge&logo=go)](https://go.dev/)
